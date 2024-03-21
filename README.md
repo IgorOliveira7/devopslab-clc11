@@ -1,3 +1,3 @@
 # DevOps Hands On
 
-Aplicação simples em Python/Flask do laboratório DevOps & Cloud
+Aplicação simples em Python/Flask do laboratório DevOps & Cloud.
